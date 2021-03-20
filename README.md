@@ -1,4 +1,7 @@
-![Megumin Explosion (Konosuba)](explosion.gif)
+<!---
+![Megumin Explosion (Konosuba)](explosion.gif)--->
+
+<img src="explosion.gif" alt="Megumin Explosion (Konosuba)" width="300"/>
 
 ### Hey, I'm Laurent 🖖
 
