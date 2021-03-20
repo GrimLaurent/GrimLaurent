@@ -1,3 +1,7 @@
+### Hey, I'm Laurent - Developer FrontEnd Js 🖖
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 - 👋 Hi, I’m @GrimLaurent
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
