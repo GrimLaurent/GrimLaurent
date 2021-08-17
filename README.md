@@ -3,10 +3,13 @@
 
 <img src="explosion.gif" alt="Megumin Explosion (Konosuba)" width="300"/>
 
-### Hey, I'm Laurent 🖖
+### Hey, Je m'appel Laurent 🖖
 
-I'm a JavaScript Developer currently working with Vue.js and TypeScript. <br/>
-I'm currently working on personal projects while learning React and Redux.
+Je suis Développeur FrontEnd Javascript et je travail sur les technos suivantes:
+- Vue.js
+- React.js
+- TypeScript
+- Redux
 
 <!---
 - 👋 Hi, I’m @GrimLaurent
